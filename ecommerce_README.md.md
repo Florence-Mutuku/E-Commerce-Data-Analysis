@@ -1,5 +1,7 @@
 
 # E-commerce Data Analysis Summary
+**Date:** 2024-10-27
+**Data Source:** Amazon dataset
 
 This README summarizes the analysis of e-commerce data, focusing on product performance, discounts, customer engagement, and category best-sellers.
 
